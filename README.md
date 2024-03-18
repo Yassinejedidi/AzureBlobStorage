@@ -58,9 +58,15 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
-## Support
+## Description
 
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
+1-Creating Nesjs Application
+2-Connect application with PostgreSQL using TypeORM
+3- Implementing a signup method for user registration
+4-Implementing a signin method to generate JWT tokens for authentication
+5-Developing a service for Azure Blob Storage facilitates the process of uploading files into the Azure Blob Storage and storing them within the designated container provided by Azure
+6-Integrating AuthGuard to protect routes
+7-Utilizing the CRUD service for uploading, deleting, and retrieving files from Azure Blob Storage
 
 ## Stay in touch
 
