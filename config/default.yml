@@ -1,0 +1,14 @@
+server:
+  port: 3000
+
+db:
+  type: 'postgres'
+  port: 5432
+  database: 'upload'
+
+
+jwt:
+  expiresIn: 3600
+
+azure:
+   AZURE_STORAGE_CONNEXION_STRING: 'put you key '

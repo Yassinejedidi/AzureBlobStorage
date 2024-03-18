@@ -1,0 +1,12 @@
+db:
+ host: 'localhost'
+ username: 'postgres'
+ password: 'postgres'
+ synchronize: true
+
+
+jwt:
+  secret: 'Put your secret key' 
+
+azure:
+ AZURE_STORAGE_CONNEXION_STRING: 'put you azure storage key'
