@@ -24,7 +24,19 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+1-Creating Nesjs Application
+
+2-Connect application with PostgreSQL using TypeORM
+
+3- Implementing a signup method for user registration
+
+4-Implementing a signin method to generate JWT tokens for authentication
+
+5-Developing a service for Azure Blob Storage facilitates the process of uploading files into the Azure Blob Storage and storing them within the designated container provided by Azure
+
+6-Integrating AuthGuard to protect routes
+
+7-Utilizing the CRUD service for uploading, deleting, and retrieving files from Azure Blob Storage
 
 ## Installation
 
@@ -58,15 +70,6 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
-## Description
-
-1-Creating Nesjs Application
-2-Connect application with PostgreSQL using TypeORM
-3- Implementing a signup method for user registration
-4-Implementing a signin method to generate JWT tokens for authentication
-5-Developing a service for Azure Blob Storage facilitates the process of uploading files into the Azure Blob Storage and storing them within the designated container provided by Azure
-6-Integrating AuthGuard to protect routes
-7-Utilizing the CRUD service for uploading, deleting, and retrieving files from Azure Blob Storage
 
 ## Stay in touch
 
